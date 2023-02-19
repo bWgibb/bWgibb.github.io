@@ -1,3 +1,7 @@
+# "bundle update" before pushing to remote
+# "bundle exec jekyll serve" to run locally
+
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
